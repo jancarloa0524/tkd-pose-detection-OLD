@@ -4,7 +4,7 @@
 
 ## Current Model
 
-The current model of tkd-pose-detection is pretty much at minimum functionality. I couldn't train it with enough data, but it still works with a bit of fidgeting. The model will improve and have more functionality in the future. 
+The current model of tkd-pose-detection is pretty much at minimum functionality. I couldn't train it with enough data, but it still works with a bit of fidgeting. The model will improve and have more functionality in the future. [Link to Demo](https://youtu.be/uHqFf01NG-0)
 
 ## Pre-Reqs
 - Use the latest version of Python; ensure pip is up to date
