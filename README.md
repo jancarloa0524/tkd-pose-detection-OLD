@@ -1,4 +1,4 @@
-# tkd-pose-detection
+# tkd-pose-detection - OLD || NEW VERSION WITH BETTER REAL-TIME DETECTION AVAILABLE ON PROFILE
 
 ## [Freedom Project Blog](https://github.com/jancarloa0524/apcsa-freedom-project)
 
